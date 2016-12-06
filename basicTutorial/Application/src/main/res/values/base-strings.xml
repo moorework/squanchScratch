@@ -21,10 +21,7 @@
         <![CDATA[
         
             
-            This sample shows you how to use ActionBarCompat to create a basic Activity which
-            displays action items. It covers inflating items from a menu resource, as well as adding
-            an item in code. Items that are not shown as action items on the Action Bar are
-            displayed in the action bar overflow.
+            Hey folks.  If y'all see this, it means you have imported the sample Android project. 
             
         
         ]]>
