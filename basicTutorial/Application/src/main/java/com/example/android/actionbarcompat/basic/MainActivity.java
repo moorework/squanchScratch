@@ -35,6 +35,7 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sample_main);
+        System.out.println("intellij");
     }
 
     // BEGIN_INCLUDE(create_menu)
