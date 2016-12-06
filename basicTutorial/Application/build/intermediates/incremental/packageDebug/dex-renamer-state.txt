@@ -1,0 +1,7 @@
+#Tue Dec 06 17:32:41 EST 2016
+base.0=C\:\\Users\\moore\\vgHackathon\\basicTutorial\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9777d69ac75f11bd1bf429739b359d4b2f174e11
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\moore\\vgHackathon\\basicTutorial\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6b08c7ac96e05c56c4604ba8fc8993a7e65fb100\\classes.dex
+base.1=C\:\\Users\\moore\\vgHackathon\\basicTutorial\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6b08c7ac96e05c56c4604ba8fc8993a7e65fb100
+file.0=C\:\\Users\\moore\\vgHackathon\\basicTutorial\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9777d69ac75f11bd1bf429739b359d4b2f174e11\\classes.dex
