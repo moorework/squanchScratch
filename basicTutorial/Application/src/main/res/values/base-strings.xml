@@ -21,9 +21,12 @@
         <![CDATA[
         
             
-            Hey folks.  If y'all see this, it means you have imported the sample Android project. 
+            Hey folks.  If you all see this, it means you have imported the sample Android project.
             
         
         ]]>
     </string>
+
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
 </resources>
