@@ -33,6 +33,9 @@ public class MainActivity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //I'm just checking to see if I can commit
+        //does this even work?
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sample_main);
         System.out.println("intellij");
